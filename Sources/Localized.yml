@@ -1,0 +1,37 @@
+default: en
+
+password:
+    en: Password
+    ru: Пароль
+
+copy:
+    en: Copy
+    ru: Копировать
+
+clear:
+    en: Clear
+    ru: Очистить
+
+generate:
+    en: GENERATE
+    ru: СОЗДАТЬ
+
+clipboard:
+    en: Copied to clipboard
+    ru: Скопировано в буфер обмена
+
+newWindow:
+    en: New Window
+    ru: Новое Окно
+
+closeWindow:
+    en: Close Window
+    ru: Закрыть Окно
+
+quit:
+    en: Quit
+    ru: Выйти
+
+mainMenu:
+    en: Main Menu
+    ru: Главное Меню
